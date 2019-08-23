@@ -58,7 +58,8 @@ Bi-LSTM + word-and-char-attention + CRF，其中 word-and-char-attention通过�
 
 ## 4. Requirements
 -python3.6
-- numpy
-- tensorflow-gpu 1.1.0
-说明：该项目是在windows平台操作
+-numpy
+-tensorflow-gpu 1.1.0
+
+说明：该项目是在windows平台操作，数据暂时未脱敏，只提供了一小部分，后期增加。
 
